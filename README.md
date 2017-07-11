@@ -1,5 +1,7 @@
 # VRInteraction
 
+(Click on the image for the demo video.)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uAO1ALRHjQQ/0.jpg)](https://www.youtube.com/watch?v=uAO1ALRHjQQ)
 
 A prototype of **human-to-machine 3D interaction**. In contrast to conventional 2D interaction practices, this framework thereby enables an advanced interaction routine:
